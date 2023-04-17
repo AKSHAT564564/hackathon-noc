@@ -3,6 +3,6 @@
    "JIRA_AUTH_MAIL" : "ujjawal.pandey@caastle.com",
    "JIRA_AUTH_TOKEN" : "ATATT3xFfGF05GWLOc-8ZMZTGl-62hghffd2n_K2t58mjBeioPrRXxjvb3nv9TeGaDvb0RGLuIlNh5zm_BwEfi7kpKNu6oPprHxB6p-3oAq4PTnJEwl8kQwvjRDKT_2YLGsKQFeTDWayk28fSsFcAgon05e6L3yMdh-BUWdVNa7bmgVz2UsqVdE=0FB66BA5",
    "TWILIO_ACCOUNT_SID" : "ACf9cba2f0d86d9b84577bb4f1ca794a82",
-   "TWILIO_AUTH_TOKEN" : "6c8925dcf23c1444ed9d00cc3fbc588a",
+   "TWILIO_AUTH_TOKEN" : "2cb7432640af657f53a96374fd8487a5",
    "FIREBASE_DB_URL" : "https://noc-hackathon-default-rtdb.asia-southeast1.firebasedatabase.app"
 }
