@@ -1,0 +1,8 @@
+{
+   "SERVER_NAME" : "https://gwynniebee.atlassian.net/",
+   "JIRA_AUTH_MAIL" : "ujjawal.pandey@caastle.com",
+   "JIRA_AUTH_TOKEN" : "ATATT3xFfGF0i605eLE1-1lcYTTzR4GHM4TmsxRPvQuk1zRX10YVjn3b-imtV0i23thWmn_CbhQv5Jqr1HPdei1wuKr-P4lS3ompChY-hXagmQr5PcQsvNHdO6q06UbbjRkgH1HGItVp4jB2kYMs_m6SVS5NAzoRcifugyr29GHEg6zo5mjzIuI=8CB15E9A",
+   "TWILIO_ACCOUNT_SID" : "ACf9cba2f0d86d9b84577bb4f1ca794a82",
+   "TWILIO_AUTH_TOKEN" : "6c8925dcf23c1444ed9d00cc3fbc588a",
+   "FIREBASE_DB_URL" : "https://noc-hackathon-default-rtdb.asia-southeast1.firebasedatabase.app"
+}
